@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32602.291
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BibliotecaMonteiroLobato", "BibliotecaMonteiroLobato\BibliotecaMonteiroLobato.csproj", "{5A328D38-0FDF-455B-B3D2-DE2D5EF42932}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "05_09_2022", "05_09_2022\05_09_2022.vdproj", "{DA15F6DF-A017-4A91-A99A-EC9BD5C060EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A328D38-0FDF-455B-B3D2-DE2D5EF42932}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A328D38-0FDF-455B-B3D2-DE2D5EF42932}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A328D38-0FDF-455B-B3D2-DE2D5EF42932}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A328D38-0FDF-455B-B3D2-DE2D5EF42932}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA15F6DF-A017-4A91-A99A-EC9BD5C060EA}.Debug|Any CPU.ActiveCfg = Debug
+		{DA15F6DF-A017-4A91-A99A-EC9BD5C060EA}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DDF9DFB1-46B6-4102-813B-81979CDF4376}
+	EndGlobalSection
+EndGlobal
